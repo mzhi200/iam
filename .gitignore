@@ -40,7 +40,7 @@
 # vendor/
 
 ### Go Patch ###
-/vendor/
+#/vendor/
 /Godeps/
 
 ### JetBrains ###
